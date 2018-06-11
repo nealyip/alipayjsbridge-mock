@@ -1,0 +1,17 @@
+{
+  "name": "alipayjsbridge-mock",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/mock_alipayjsbridge.js",
+  "types" : "dist/mock_alipayjsbridge.d.ts",
+  "repository": "https://github.com/nealyip/alipayjsbridge-mock",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typings-alipayjsbridge": "^8.2.1"
+  }
+}
